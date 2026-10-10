@@ -1,8 +1,7 @@
-# Hi, I'm Harsha 👋
-
+# Harsha 
 I'm a data engineer and analytics professional building production-grade pipelines, automated workflows, and dashboards that drive real business decisions.
 
-Currently pursuing my **MS in Data Analytics Engineering** at George Mason University (GPA: 3.75).
+**MS in Data Analytics Engineering** at George Mason University.
 
 ---
 
